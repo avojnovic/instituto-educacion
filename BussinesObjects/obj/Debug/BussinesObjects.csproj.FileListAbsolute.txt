@@ -1,0 +1,15 @@
+F:\Proyectos\InstitutoEducacion\BussinesObjects\bin\Debug\BussinesObjects.dll
+F:\Proyectos\InstitutoEducacion\BussinesObjects\bin\Debug\BussinesObjects.pdb
+F:\Proyectos\InstitutoEducacion\BussinesObjects\obj\Debug\ResolveAssemblyReference.cache
+F:\Proyectos\InstitutoEducacion\BussinesObjects\obj\Debug\BussinesObjects.dll
+F:\Proyectos\InstitutoEducacion\BussinesObjects\obj\Debug\BussinesObjects.pdb
+C:\Users\Alan\Desktop\TMP\InstitutoEducacion\BussinesObjects\bin\Debug\BussinesObjects.dll
+C:\Users\Alan\Desktop\TMP\InstitutoEducacion\BussinesObjects\bin\Debug\BussinesObjects.pdb
+C:\Users\Alan\Desktop\TMP\InstitutoEducacion\BussinesObjects\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alan\Desktop\TMP\InstitutoEducacion\BussinesObjects\obj\Debug\BussinesObjects.dll
+C:\Users\Alan\Desktop\TMP\InstitutoEducacion\BussinesObjects\obj\Debug\BussinesObjects.pdb
+C:\Users\Alan\Desktop\InstitutoEducacion\BussinesObjects\bin\Debug\BussinesObjects.dll
+C:\Users\Alan\Desktop\InstitutoEducacion\BussinesObjects\bin\Debug\BussinesObjects.pdb
+C:\Users\Alan\Desktop\InstitutoEducacion\BussinesObjects\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alan\Desktop\InstitutoEducacion\BussinesObjects\obj\Debug\BussinesObjects.dll
+C:\Users\Alan\Desktop\InstitutoEducacion\BussinesObjects\obj\Debug\BussinesObjects.pdb

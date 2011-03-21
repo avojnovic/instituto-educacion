@@ -1,0 +1,11 @@
+F:\Proyectos\InstitutoEducacion\ControlObjects\obj\Debug\ResolveAssemblyReference.cache
+F:\Proyectos\InstitutoEducacion\ControlObjects\bin\Debug\ControlObjects.dll
+F:\Proyectos\InstitutoEducacion\ControlObjects\bin\Debug\ControlObjects.pdb
+F:\Proyectos\InstitutoEducacion\ControlObjects\bin\Debug\BussinesObjects.dll
+F:\Proyectos\InstitutoEducacion\ControlObjects\bin\Debug\DataAccessObjects.dll
+F:\Proyectos\InstitutoEducacion\ControlObjects\bin\Debug\Mono.Security.dll
+F:\Proyectos\InstitutoEducacion\ControlObjects\bin\Debug\Npgsql.dll
+F:\Proyectos\InstitutoEducacion\ControlObjects\bin\Debug\BussinesObjects.pdb
+F:\Proyectos\InstitutoEducacion\ControlObjects\bin\Debug\DataAccessObjects.pdb
+F:\Proyectos\InstitutoEducacion\ControlObjects\obj\Debug\ControlObjects.dll
+F:\Proyectos\InstitutoEducacion\ControlObjects\obj\Debug\ControlObjects.pdb
